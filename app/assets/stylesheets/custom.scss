@@ -1,0 +1,25 @@
+.bg-custom { background-color: #026aa7 !important; }
+.bg-primary-light { background-color: #4b95bf; }
+.bg-blue { background-color: #0079bf;}
+.has-search .form-control {
+  padding-left: 2.375rem;
+  height: 2rem;
+  background-color: #4b95bf;
+}
+.bg-light-gray { background-color: #e2e4e6;}
+a:hover{ text-decoration: none; }
+
+.has-search .form-control-feedback {
+  position: absolute;
+  z-index: 2;
+  display: block;
+  width: 2.375rem;
+  height: 2.375rem;
+  line-height: -0.625rem;
+  text-align: center;
+  top: 24%;
+  left: 26%;
+  pointer-events: none;
+  color: #aaa;
+}
+.font-11{font-size: 11px;}
